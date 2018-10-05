@@ -1,0 +1,53 @@
+.scoreboard {
+    background-color: aquamarine;
+}
+
+.square {
+    height: 70px;
+    width: 70px;
+    
+}
+
+.game {
+    margin: 20px;
+    background-image: url('https://i.imgur.com/T2hwUmC.gif');
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+}
+
+.helicopter {
+    background-image: url('http://www.animatedimages.org/data/media/72/animated-helicopter-image-0037.gif');
+    background-size: 100%; 
+    background-repeat: no-repeat;
+
+}
+
+.obstacle {
+    background-image: url('https://ubisafe.org/images/plane-transparent-animated-3.gif');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.timer {
+position: relative;
+left: -400px;
+}
+
+.playagain {
+    justify-content: center;
+}
+
+.gamebuttons {
+    margin-left: 500px;
+}
+
+.gameOver {
+    justify-content: center;
+}
+
+.instructions {
+    text-align: center;
+    margin-top: 2.5em;
+}
+
